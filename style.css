@@ -12,6 +12,11 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
+    width: 1578;
+height: 1020;
+angle: 0 deg;
+opacity: 1;
+
 }
 .man{
 width: 1181;
@@ -24,9 +29,11 @@ border-width: 1px;
 border: 1px solid #050000
 
 
+
+
 }
 #sign{
-width: 600;
+width: 100%;
 height: 144;
 angle: 0 deg;
 opacity: 1;
